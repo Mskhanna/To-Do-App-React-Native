@@ -35,7 +35,7 @@ To run the app locally, follow these steps:
 2. Clone or download the project repository.
 3. Open a terminal and navigate to the project directory.
 4. Run `npm install` or `yarn install` to install the dependencies.
-5. Install Expo CLI globally on your machine by running the following command in your terminal: npm install -g expo-cli
+5. Install Expo CLI globally on your machine by running the following command in your terminal: `npm install -g expo-cli`
 6. Start the app with `npm start` or `yarn start`.
 7. Use a compatible development environment or an emulator to run the app.
 
