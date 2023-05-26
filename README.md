@@ -19,7 +19,7 @@ This is a simple to-do app built using React Native. The app allows you to add, 
 
 ## Screenshots
 
-<center><img src="./assets/main.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: 0 auto; height: 500px"> <img src="./assets/tasks.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: 0 auto; height: 500px"> <img src="./assets/scroll.gif" alt="Alt text" title="Optional title" style="display: inline-block; margin: 0 auto; height: 500px"></center>
+<img src="./assets/main.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: 0 auto; height: 500px"> <img src="./assets/tasks.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: 0 auto; height: 500px"> <img src="./assets/scroll.gif" alt="Alt text" title="Optional title" style="display: inline-block; margin: 0 auto; height: 500px">
 
 ## Technologies Used
 
