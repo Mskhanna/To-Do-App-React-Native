@@ -39,6 +39,4 @@ To run the app locally, follow these steps:
 6. Start the app with `npm start` or `yarn start`.
 7. Use a compatible development environment or an emulator to run the app.
 
-## Contributions
-
-Contributions to the project are welcome! If you find any issues or want to add new features, feel free to submit a pull request.
+View the project here: https://mskhanna.github.io/To-Do-App-React-Native/
