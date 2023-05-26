@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/To-Do-App-React-Native/static/js/main.939b9652.js",
+    "static/js/428.621af758.js": "/To-Do-App-React-Native/static/js/428.621af758.js",
+    "static/media/goal.png": "/To-Do-App-React-Native/static/media/goal.8c34c7bd4ce531b76bcc.png",
+    "favicon.ico": "/To-Do-App-React-Native/favicon.ico",
+    "index.html": "/To-Do-App-React-Native/index.html",
+    "favicon-32.png": "/To-Do-App-React-Native/favicon-32.png",
+    "favicon-16.png": "/To-Do-App-React-Native/favicon-16.png",
+    "manifest.json": "/To-Do-App-React-Native/manifest.json",
+    "serve.json": "/To-Do-App-React-Native/serve.json",
+    "main.939b9652.js.map": "/To-Do-App-React-Native/static/js/main.939b9652.js.map",
+    "428.621af758.js.map": "/To-Do-App-React-Native/static/js/428.621af758.js.map"
+  },
+  "entrypoints": [
+    "static/js/428.621af758.js",
+    "static/js/main.939b9652.js"
+  ]
+}
