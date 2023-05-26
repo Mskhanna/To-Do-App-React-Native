@@ -1,6 +1,6 @@
 {
   "homepage": "http://mskhanna.github.io/To-Do-App-React-Native",
-  "name": "ToDo App",
+  "name": "ToDoApp",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
