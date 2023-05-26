@@ -5,4 +5,4 @@ This is a To Do App created using React Native
   src="./assets/tasks.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; height: 300px">
+  style="display: inline-block; margin: 0 auto; height: 500px">
